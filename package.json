@@ -1,0 +1,14 @@
+{
+  "name": "switch-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Philip Kin",
+  "license": "GPLv3",
+  "dependencies": {
+    "commander": "^2.15.0",
+    "serialport": "^6.1.1"
+  }
+}
