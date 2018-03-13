@@ -1,6 +1,11 @@
 # 5x1-hdmi-switch-control
 Control program for AGPTEK 5x1 HDMI switches with RS232 control (and similar units)
 
+## Supported Hardware
+
+* [AGPtEK Slim 4K 5x1 HDMI Switch HDMI 2.0 with Wireless IR Remote Controller, Auto EDID, Support 4k x 2k and 3D and RS232 Control,5 in 1 out splitter](https://www.amazon.com/gp/product/B01N19RFYW)
+* [E-SDS UHD 4K@60Hz HDMI Switch ,5x1 HDMI Switch with IR Wireless Remote, Auto EDID, HDMI 2.0, HDCP 2.2, and RS232](https://www.amazon.com/gp/product/B01FXALWYY)
+
 
 ## Installation
 
