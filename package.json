@@ -1,14 +1,19 @@
 {
   "name": "hdmi-switch-control",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
   },
+  "bin" : { "hdmi-switch-control" : "./index.js" },
   "author": "Philip Kin",
   "license": "GPLv3",
   "dependencies": {
     "commander": "^2.15.0",
     "serialport": "^6.1.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/pipakin/5x1-hdmi-switch-control.git"
   }
 }
